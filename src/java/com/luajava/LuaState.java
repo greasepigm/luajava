@@ -161,7 +161,7 @@ public class LuaState
 	{
 		return mContext;
 	}
-	*/751
+	*/
 	/********************* Lua Native Interface *************************/
 
 	private synchronized native long _newstate();
