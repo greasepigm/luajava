@@ -724,8 +724,8 @@ public final class LuaJavaAPI
 							return 1;
 						}
 						catch (Exception e2)
-						{}*/
-					}
+						{}
+					}*/
 				}
 			}
 			Object[] objs = new Object[top - 1];
